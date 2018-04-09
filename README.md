@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/floyernick/Data-Structures-and-Algorithms)](https://goreportcard.com/report/github.com/floyernick/Data-Structures-and-Algorithms) [![Build Status](https://travis-ci.org/floyernick/Data-Structures-and-Algorithms.svg?branch=master)](https://travis-ci.org/floyernick/Data-Structures-and-Algorithms) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/floyernick/Data-Structures-and-Algorithms/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnandotech%2FData-Structures-and-Algorithms.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnandotech%2FData-Structures-and-Algorithms?ref=badge_shield)
 
 Clean and simple implementation in Go
 
@@ -54,6 +55,9 @@ We would be happy to receive your propositions of improvement! Read [Contributin
 ## License
 
 This project is licensed under the **MIT License**.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnandotech%2FData-Structures-and-Algorithms.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnandotech%2FData-Structures-and-Algorithms?ref=badge_large)
 
 ## Authors
 
